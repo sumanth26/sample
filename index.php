@@ -1,4 +1,4 @@
 <?php
-echo "hello world aftrn"
+echo "hello world morning"
 ?>
 
